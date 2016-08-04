@@ -1,0 +1,23 @@
+_repo: E-mail-101_75
+_version: 0.0.1
+alternative_title: Email 101
+creator:
+  author:
+    agent_name: Goodwin, John E.
+    gutenberg_agent_id: '56'
+    url: http://www.gutenberg.org/2009/agents/56
+description: ''
+gutenberg_issued: '1993-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'TK'
+- !lcsh 'Electronic mail systems'
+- GITenberg
+title: E-mail 101
+url: http://www.gutenberg.org/ebooks/75
